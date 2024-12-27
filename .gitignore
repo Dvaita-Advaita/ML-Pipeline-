@@ -2,6 +2,7 @@
 data
 models
 reports
+
 __pycache__/
 *.py[cod]
 *$py.class
